@@ -1,2 +1,5 @@
 config.sh
 my.ipynb
+.DS_Store
+**/__pycache__/
+*.pyc
