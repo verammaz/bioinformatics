@@ -152,7 +152,7 @@ See individual stage READMEs for file-level details.
 
 ## Configuration
 
-All paths and HPC variables are centralized in `config.sh` (copy from `config.template.sh` on first use). Each reference genome has its own set of variables:
+All paths and HPC variables are centralized in `config.sh` (copy from `config_template.sh` on first use). Each reference genome has its own set of variables:
 
 ```bash
 REF_FASTA_hg19, INDELS_1_hg19, PON_hg19, SITES_OF_VARIATION_hg19, EXOME_INTERVALS_hg19, ...
